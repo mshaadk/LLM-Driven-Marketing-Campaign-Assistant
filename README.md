@@ -46,7 +46,7 @@ streamlit run app.py
 ├── requirements.txt        # Required Python packages
 ├── .env                    # Environment variables
 ├── README.md               # Project documentation
-├── LICESNE.txt             # License File
+├── LICENSE.txt             # License File
 ```
 
 ## 🌟 How to Use
